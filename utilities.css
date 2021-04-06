@@ -1,0 +1,35 @@
+#container{
+    max-width:1200px;
+    margin:auto;
+}
+
+/* text */
+.text-dark{
+    font-size: 1.5rem;
+    font-weight:200;
+}
+
+a{
+    text-decoration: none;
+    color:#fff;
+}
+
+li{
+    list-style: none;
+}
+input{
+    outline:none;
+    background:#fff;
+}
+input::placeholder{
+    color:#333;
+    font-weight:400;
+    
+}
+
+.broad{
+    font-size: 1.7rem;
+    font-weight: 400;
+}
+
+/* buttons */
